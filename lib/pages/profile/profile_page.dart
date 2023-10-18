@@ -90,7 +90,7 @@ class _ProfilePageState extends State<ProfilePage> {
                           ),
                         ),
                         const Text(
-                          "Senin, 28 Agustus 2023",
+                          "Kamis, 19 Oktober 2023",
                           style: TextStyle(
                             fontSize: 8,
                             fontWeight: FontWeight.w500,
