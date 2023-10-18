@@ -1,5 +1,5 @@
 class Images {
-  static const String logo = 'assets/images/H-Education.png';
+  static const String logo = 'assets/images/logo.png';
   static const String khs = 'assets/images/khs.png';
   static const String nMatkul = 'assets/images/nMatkul.png';
   static const String jadwal = 'assets/images/jadwal.png';

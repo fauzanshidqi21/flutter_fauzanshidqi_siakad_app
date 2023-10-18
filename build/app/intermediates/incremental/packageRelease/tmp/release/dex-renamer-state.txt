@@ -1,0 +1,4 @@
+#Thu Oct 19 01:55:47 ICT 2023
+base.0=F\:\\FIC8\\flutter_fauzanshidqi_siakad_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
